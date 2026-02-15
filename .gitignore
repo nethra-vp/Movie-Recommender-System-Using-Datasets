@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (The big one!)
+.venv/
+venv/
+ENV/
+env/
+python/
+
+# Configuration and Secrets
+.env
+.flaskenv
+instance/
+
+# IDE Specific (VS Code / PyCharm)
+.vscode/
+.idea/
+
+# Datasets
+Movie_Id_Titles.csv
+u.data
